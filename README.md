@@ -11,7 +11,7 @@ The requiredir project provides a simple module that, when passed a directory, w
 
 The requiredir module has unit tests built around it than can be used to verify the package before usage.  The tests are written with the Mocha and Should modules and running the below command will import such.  
 
-     npm test requiredir
+    npm test requiredir
 
 requiredir's tests are compatible with Node.js 0.6 and higher. 
 
